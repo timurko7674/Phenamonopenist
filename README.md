@@ -13,20 +13,15 @@
         </header>
         <main>
             <section>
-                <h2>Veridiflector</h2>
-                <p>A person who reflects or deflects the truth, often claiming that others are lying or misrepresenting the truth.</p>
+                <h2>Meanings</h2>
+                <p>Veridiflector: A person who reflects or deflects the truth, often claiming that others are lying or misrepresenting the truth.</p>
+                <p>Pseudocritic: Someone who frequently claims that truthful statements are lies, especially in the context of supporting or opposing certain views.</p>
+                <p>Truthbender: A person who asserts that what others say is false, especially when the statements are actually true.</p>
+                <p>Fact-denier: Someone who denies facts, often accusing others of lying to support their own beliefs or agendas.</p>
             </section>
             <section>
-                <h2>Pseudocritic</h2>
-                <p>Someone who frequently claims that truthful statements are lies, especially in the context of supporting or opposing certain views.</p>
-            </section>
-            <section>
-                <h2>Truthbender</h2>
-                <p>A person who asserts that what others say is false, especially when the statements are actually true.</p>
-            </section>
-            <section>
-                <h2>Fact-denier</h2>
-                <p>Someone who denies facts, often accusing others of lying to support their own beliefs or agendas.</p>
+                <h2>Etymology</h2>
+                <p>These terms were created by the user <strong>timur4923</strong>.</p>
             </section>
         </main>
         <footer>
