@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phenamonopenist</title>
+    <title>Phenamonopenist meaning</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -15,11 +15,8 @@
             <section>
                 <h2>Meaning</h2>
                 <p>1.Veridiflector: A person who reflects or deflects the truth, often claiming that others are lying or misrepresenting the truth.
-                    
 2.Pseudocritic: Someone who frequently claims that truthful statements are lies, especially in the context of supporting or opposing certain views.
-
 3.Truthbender: A person who asserts that what others say is false, especially when the statements are actually true.
-
 4.Fact-denier: Someone who denies facts, often accusing others of lying to support their own beliefs or agendas..</p>
             </section>
             <section>
